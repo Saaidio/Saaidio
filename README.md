@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saaidio
+- 👋 Hi, I’m @Saaid
 - 👀 I’m interested in learning new ways to do a project 
 - 🌱 I’m currently learning Python
 
